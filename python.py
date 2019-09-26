@@ -1,0 +1,5 @@
+print("hello world")
+print("jack")
+print("jack sparrow")
+print("hi,i am fasih.")
+print ("25")
