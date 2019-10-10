@@ -52,11 +52,7 @@ first= 'test'
 second= 3
 print(first*second)
 
-quotient = '7//3'
-print(quotient)
-
-remainder='7%3'
-print(remainder)
-
+a=20+32-(40*5)*(15-7)
+print(a)
 
 
