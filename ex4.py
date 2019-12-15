@@ -74,7 +74,3 @@ rate = check_for_float(input_rate)
 
 pay = computepay(hours, rate)
 print('Pay: ', pay)
-
-
-
-
